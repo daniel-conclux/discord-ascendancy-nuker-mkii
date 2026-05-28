@@ -1,7 +1,7 @@
 # ASCENDANCY NUKER MKII – TRANSCENDENCE EDITION
 Developed by Daniel Conclux of Hyperion Ascendancy
 
-By utilizing this program, you agree to the regulations of the Hyperion Ascendancy. Any violations may result in punishment and disciplinary actions.
+By utilizing this program, you unconditionally assent to the Hyperion Ascendancy's Regulations. Any subsequent violations or non-compliance shall result in immediate disciplinary measures and severe systemic repercussions.
 
 ------------------------------------------------------------
 
