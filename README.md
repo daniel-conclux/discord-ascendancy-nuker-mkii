@@ -1,5 +1,5 @@
 # ASCENDANCY NUKER MKII – TRANSCENDENCE EDITION
-Developed by Daniel Conclux of Hyperion Ascendancy
+Developed by Daniel Conclux of Hyperion Ascendancy, purely for the destruction of Discord.
 
 By utilizing this program, you unconditionally assent to the Hyperion Ascendancy's Regulations. Any subsequent violations or non-compliance shall result in immediate disciplinary measures and severe systemic repercussions.
 
