@@ -1,12 +1,4 @@
-      __        ________  ______    _______  ____  __   ________       __      ____  __    ______   ___  ___  
-     /""\      /"       )/" __ "\  /"     "|("   \|" \ |"      "\     /""\    ("   \|" \  /" __ "\ |"  \/"  | 
-    /    \    (:   \___/|: /  \__)(: ______)|\\   \   ||.  ___  :|   /    \   |\\   \   ||: /  \__| \   \  /  
-   /' /\  \    \___  \  |  |       \\   \   |:\.   \\ ||: \   \ ||  /' /\  \  |:\.   \\ ||  |        \\  \/   
-  //  __'  \    __/  \\ |  |   __  // __)_  |. \    \.||| /___/ || //  __'  \ |. \    \.||  |   __   /   /    
- /   /  \\  \  /" \   :)|: \__/  )(:      "||   \    \||:       :|/   /  \\  \|   \    \||: \__/  | /   /     
-(___/    \___)(_______/  \______/  \_______) \__|\____)|________/(___/    \___)\__|\____) \______/ |___/     
-
-ASCENDANCY NUKER MKII – TRANSCENDENCE EDITION
+### ASCENDANCY NUKER MKII – TRANSCENDENCE EDITION
 Developed by Daniel Conclux of Hyperion Ascendancy
 
 By utilizing this program, you agree to the regulations of the Hyperion Ascendancy. Any violations may result in punishment and disciplinary actions.
